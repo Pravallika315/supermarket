@@ -28,14 +28,13 @@ function Checkout() {
 
   const handleSubmit = async () => {
     try {
-
       if (cartItems.length === 0) {
         alert('Your cart is empty!');
         return;
       }
 
       const userRes = await axios.post(
-        'http://localhost:5000/api/users',
+        'https://supermarket-hzpn.onrender.com/api/users',
         {
           name: form.name,
           phone: form.phone,
@@ -55,7 +54,7 @@ function Checkout() {
       );
 
       await axios.post(
-        'http://localhost:5000/api/orders',
+        'https://supermarket-hzpn.onrender.com/api/orders',
         {
           userId: userRes.data._id,
           items: cartItems,
