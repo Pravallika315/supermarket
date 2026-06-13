@@ -1,0 +1,44 @@
+{
+  "vegetables": [
+    { "name": "Cabbage", "image": "/images/CABB.webp", "weight": "1KG", "price": 4.3 },
+    { "name": "Cauliflower", "image": "/images/CAULI.webp", "weight": "1KG", "price": 5.0 },
+    { "name": "Capsicum", "image": "/images/CAPI.webp", "weight": "500g", "price": 7.0 },
+    { "name": "Carrot", "image": "/images/CARRI.webp", "weight": "500g", "price": 3.0 },
+    { "name": "Beetroot", "image": "/images/BETT.webp", "weight": "500g", "price": 4.56 }
+  ],
+  "fruits": [
+    { "name": "Pineapple", "image": "/images/PINE.webp", "weight": "600g-700g", "price": 6.3 },
+    { "name": "Dragon fruit", "image": "/images/DRAG.webp", "weight": "200g-300g", "price": 8.3 },
+    { "name": "Plum", "image": "/images/PLUM.webp", "weight": "400g-600g", "price": 15.0 },
+    { "name": "Strawberry", "image": "/images/STRAWW.webp", "weight": "500g-600g", "price": 7.15 },
+    { "name": "Litchi", "image": "/images/LITCHI.jpg", "weight": "500g-600g", "price": 10.3 }
+  ],
+  "dairy": [
+    { "name": "Milk", "image": "/images/MILK.webp", "weight": "500ml", "price": 5.15 },
+    { "name": "Butter", "image": "/images/BUTTER.webp", "weight": "500g", "price": 14.15 },
+    { "name": "Cheese", "image": "/images/CHEESE.webp", "weight": "200g", "price": 10.0 },
+    { "name": "Ghee", "image": "/images/GG.webp", "weight": "500g", "price": 19.15 },
+    { "name": "Paneer", "image": "/images/PANN.webp", "weight": "200g", "price": 9.15 }
+  ],
+  "namkeens": [
+  { "name": "Aloo Bhujia", "image": "/images/ALOOBHUJIA.webp", "weight": "200g", "price": 25.0 },
+  { "name": "Moong Dal", "image": "/images/MOONGDAL.webp", "weight": "150g", "price": 20.0 },
+  { "name": "Masala Peanuts", "image": "/images/PEANUTS.webp", "weight": "250g", "price": 30.0 },
+  { "name": "Mixture", "image": "/images/Mixture.webp", "weight": "200g", "price": 28.0 },
+  { "name": "Murukku", "image": "/images/Murukku.webp", "weight": "200g", "price": 32.0 }
+],
+ "beverages": [
+  { "name": "Coca Cola", "image": "/images/COKE.webp", "weight": "500ml", "price": 35.0 },
+  { "name": "Sprite", "image": "/images/SPRITE.webp", "weight": "500ml", "price": 35.0 },
+  { "name": "Frooti", "image": "/images/FROOTI.webp", "weight": "300ml", "price": 20.0 },
+  { "name": "B Natural", "image": "/images/BNatural.webp", "weight": "300ml", "price": 25.0 },
+  { "name": "Mogu Mogu", "image": "/images/MoguMogu.webp", "weight": "320ml", "price": 40.0 }
+],
+"chocolates": [
+  { "name": "Dairy Milk", "image": "/images/DAIRYMILK.webp", "weight": "50g", "price": 20.0 },
+  { "name": "KitKat", "image": "/images/KITKAT.webp", "weight": "35g", "price": 25.0 },
+  { "name": "Perk", "image": "/images/PERK.webp", "weight": "30g", "price": 10.0 },
+  { "name": "Five Star", "image": "/images/FiveStar.webp", "weight": "40g", "price": 20.0 },
+  { "name": "Munch", "image": "/images/Munch.webp", "weight": "35g", "price": 15.0 }
+]
+}
